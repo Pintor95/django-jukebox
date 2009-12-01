@@ -1,0 +1,6 @@
+#summary Installation instructions.
+
+= Dependencies =
+ * [http://python.org Python] 2.6
+ * [http://djangoproject.com Django] 1.x
+ * [http://code.google.com/p/mutagen/ Mutagen] (1.18+)
